@@ -1,0 +1,18 @@
+baseURL: https://example.com/
+title: Maël Jemetz
+enableRobotsTXT: yes
+theme: compose
+enableGitInfo: yes
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

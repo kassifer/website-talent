@@ -1,0 +1,18 @@
+[docs_menu]
+  other = "Docs Menu"
+[no_matches]
+  other = "Aucun résultat"
+[quick_links]
+  other = "Liens rapides"
+[search_field_placeholder]
+  other = "Une requête ?"
+[search_results_label]
+  other = "Voici vos résultats"
+[short_search_query]
+  other = "Requête trop courte !"
+[site_menu]
+  other = "Menu du site"
+[to_top]
+  other = "Retour en haut de la page"
+[type_to_search]
+  other = "Type de recherche"

@@ -1,0 +1,20 @@
+#  menu items
+[[main]]
+  name = "Mes projets"
+  weight = 2
+  url = "docs/"
+
+[[main]]
+  name = "Recommandations"
+  weight = 3
+  url = "docs2/"
+  
+[[main]]
+  name = "in"
+  weight = 4
+  url = "https://www.linkedin.com/in/jemetz-maël"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"
