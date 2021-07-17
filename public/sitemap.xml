@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/docs/</loc>
+    <loc>mael-jemetz.netlify.app/docs/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/projet_esport/</loc>
+    <loc>mael-jemetz.netlify.app/docs/projet_esport/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/projet_tut/</loc>
+    <loc>mael-jemetz.netlify.app/docs/projet_tut/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs2/</loc>
+    <loc>mael-jemetz.netlify.app/docs2/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/harmonie/</loc>
+    <loc>mael-jemetz.netlify.app/docs/harmonie/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2021-06-22-harmonie-mutuelle/</loc>
+    <loc>mael-jemetz.netlify.app/post/2021-06-22-harmonie-mutuelle/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>mael-jemetz.netlify.app/post/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-12-01-r-rmarkdown/</loc>
+    <loc>mael-jemetz.netlify.app/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>mael-jemetz.netlify.app/posts/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>mael-jemetz.netlify.app/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/projet_tut/data/</loc>
+    <loc>mael-jemetz.netlify.app/docs/projet_tut/data/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/projet_esport/data-analyse/</loc>
+    <loc>mael-jemetz.netlify.app/docs/projet_esport/data-analyse/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/harmonie/gouvernance/</loc>
+    <loc>mael-jemetz.netlify.app/docs/harmonie/gouvernance/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/projet_esport/data-science/</loc>
+    <loc>mael-jemetz.netlify.app/docs/projet_esport/data-science/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/projet_tut/gestion-projet/</loc>
+    <loc>mael-jemetz.netlify.app/docs/projet_tut/gestion-projet/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/harmonie/po/</loc>
+    <loc>mael-jemetz.netlify.app/docs/harmonie/po/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>mael-jemetz.netlify.app/search/</loc>
     <lastmod>2021-07-17T10:07:59+02:00</lastmod>
   </url>
 </urlset>

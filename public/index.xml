@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maël Jemetz</title>
-    <link>https://example.com/</link>
+    <link>mael-jemetz.netlify.app/</link>
     <description>Recent content on Maël Jemetz</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="mael-jemetz.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Harmonie mutuelle</title>
-      <link>https://example.com/post/2021-06-22-harmonie-mutuelle/</link>
+      <link>mael-jemetz.netlify.app/post/2021-06-22-harmonie-mutuelle/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2021-06-22-harmonie-mutuelle/</guid>
+      <guid>mael-jemetz.netlify.app/post/2021-06-22-harmonie-mutuelle/</guid>
       <description>fezfezfez</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <link>mael-jemetz.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <guid>mael-jemetz.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -27,64 +27,64 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Data</title>
-      <link>https://example.com/docs/projet_tut/data/</link>
+      <link>mael-jemetz.netlify.app/docs/projet_tut/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/projet_tut/data/</guid>
+      <guid>mael-jemetz.netlify.app/docs/projet_tut/data/</guid>
       <description>Analyse du sujet Mes connaissances Récupération des données API Robots Traitement des données Cohérence Néttoyage Visualisation des données Fonction de détection Gephy Interface cohérente Package ou developpeur spécialisé ? </description>
     </item>
     
     <item>
       <title>Data Analyse</title>
-      <link>https://example.com/docs/projet_esport/data-analyse/</link>
+      <link>mael-jemetz.netlify.app/docs/projet_esport/data-analyse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/projet_esport/data-analyse/</guid>
+      <guid>mael-jemetz.netlify.app/docs/projet_esport/data-analyse/</guid>
       <description>Appréhension de la partie analyse du sujet : De façon générale, l&#39;analyse consiste à tirer des informations factuelles utiles à l&#39;apport de visibilité sur le sujet, afin de pouvoir prédire, contrôler ou décrire des éléments liés à la problématique.  En effet, le but d&#39;une analyse est non seulement dans l&#39;audit du situation à l&#39;instant T, mais également dans le sondage de l&#39;instant T-1, ainsi que T+1. L&#39;idée est de retranscrire une image cohérente du futur en s&#39;appuyant sur les fluctuations passées, la situation présente, et sur les situation connues similaire afin de produire une prédiction cohérente de l&#39;instant T+1.</description>
     </item>
     
     <item>
       <title>Data Gouvernance</title>
-      <link>https://example.com/docs/harmonie/gouvernance/</link>
+      <link>mael-jemetz.netlify.app/docs/harmonie/gouvernance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/harmonie/gouvernance/</guid>
+      <guid>mael-jemetz.netlify.app/docs/harmonie/gouvernance/</guid>
       <description>Tâche 1 Tâche 2 Tâche 3 Tâche 4 </description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://example.com/docs/projet_esport/data-science/</link>
+      <link>mael-jemetz.netlify.app/docs/projet_esport/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/projet_esport/data-science/</guid>
+      <guid>mael-jemetz.netlify.app/docs/projet_esport/data-science/</guid>
       <description>Tâche 1 Tâche 2 Tâche 3 Tâche 4 </description>
     </item>
     
     <item>
       <title>Gestion de projet</title>
-      <link>https://example.com/docs/projet_tut/gestion-projet/</link>
+      <link>mael-jemetz.netlify.app/docs/projet_tut/gestion-projet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/projet_tut/gestion-projet/</guid>
+      <guid>mael-jemetz.netlify.app/docs/projet_tut/gestion-projet/</guid>
       <description>Approche Méthode agile adaptée Gains </description>
     </item>
     
     <item>
       <title>Product Owner Data</title>
-      <link>https://example.com/docs/harmonie/po/</link>
+      <link>mael-jemetz.netlify.app/docs/harmonie/po/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/harmonie/po/</guid>
+      <guid>mael-jemetz.netlify.app/docs/harmonie/po/</guid>
       <description>Tâche 1 Tâche 2 Tâche 3 Tâche 4 </description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://example.com/search/</link>
+      <link>mael-jemetz.netlify.app/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/search/</guid>
+      <guid>mael-jemetz.netlify.app/search/</guid>
       <description></description>
     </item>
     

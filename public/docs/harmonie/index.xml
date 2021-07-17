@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SIHM on Maël Jemetz</title>
-    <link>https://example.com/docs/harmonie/</link>
+    <link>mael-jemetz.netlify.app/docs/harmonie/</link>
     <description>Recent content in SIHM on Maël Jemetz</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/docs/harmonie/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="mael-jemetz.netlify.app/docs/harmonie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Gouvernance</title>
-      <link>https://example.com/docs/harmonie/gouvernance/</link>
+      <link>mael-jemetz.netlify.app/docs/harmonie/gouvernance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/harmonie/gouvernance/</guid>
+      <guid>mael-jemetz.netlify.app/docs/harmonie/gouvernance/</guid>
       <description>Tâche 1 Tâche 2 Tâche 3 Tâche 4 </description>
     </item>
     
     <item>
       <title>Product Owner Data</title>
-      <link>https://example.com/docs/harmonie/po/</link>
+      <link>mael-jemetz.netlify.app/docs/harmonie/po/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/harmonie/po/</guid>
+      <guid>mael-jemetz.netlify.app/docs/harmonie/po/</guid>
       <description>Tâche 1 Tâche 2 Tâche 3 Tâche 4 </description>
     </item>
     

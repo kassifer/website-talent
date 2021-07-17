@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Maël Jemetz</title>
-    <link>https://example.com/post/</link>
+    <link>mael-jemetz.netlify.app/post/</link>
     <description>Recent content in Posts on Maël Jemetz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="mael-jemetz.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Harmonie mutuelle</title>
-      <link>https://example.com/post/2021-06-22-harmonie-mutuelle/</link>
+      <link>mael-jemetz.netlify.app/post/2021-06-22-harmonie-mutuelle/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2021-06-22-harmonie-mutuelle/</guid>
+      <guid>mael-jemetz.netlify.app/post/2021-06-22-harmonie-mutuelle/</guid>
       <description>fezfezfez</description>
     </item>
     
